@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+G:\Study Materials\Year 04\Semester 02\MTIT\Assignments\Assignment 04\Aurora\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+152040776.index
+66300054.index
+1776165370.index
+2833174487.index
+2568303707.index
+1989945286.index
+3537779185.index
+2730574000.index
+2266531103.index
